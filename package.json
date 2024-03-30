@@ -1,0 +1,36 @@
+{
+  "name": "echo-lagoon-mystic",
+  "version": "1.0.0",
+  "description": "Offers tools for automating marketing campaigns across various digital platforms, increasing efficiency and ROI.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/echo-lagoon-mystic"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "twilight-shadow-weaver": "1.0.0",
+    "neon-breeze-alchemist": "1.0.0",
+    "redux": "1.0.0",
+    "sinon": "1.0.0",
+    "moment": "1.0.0",
+    "node-sass": "1.0.0",
+    "xml2js": "1.0.0",
+    "multer": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "truffle": "1.0.0",
+    "webpack": "1.0.0",
+    "solc": "1.0.0",
+    "passport": "1.0.0",
+    "eslint": "1.0.0",
+    "dotenv": "1.0.0",
+    "mongoose": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
